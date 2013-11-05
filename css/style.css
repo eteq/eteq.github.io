@@ -934,13 +934,25 @@
 		}
 
 /*********************************************************************************/
-/* Divs                                                                          */
+/* Customized for CV                                                             */
 /*********************************************************************************/
 
     #cvcontent
     {
     	text-align: center;
     }
+    .docutils.footnote
+    {
+        margin-bottom: 0em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .docutils.footnote:last-child 
+    {
+        margin-bottom: 2em;
+    }
+        
+    
 
 /*********************************************************************************/
 /* Copyright                                                                     */
