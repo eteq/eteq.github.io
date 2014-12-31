@@ -952,6 +952,16 @@
     {
         margin-bottom: 2em;
     }
+
+    #cvcontent p
+    {
+    	margin-bottom: 0.5em;
+    }
+
+    #cvcontent li
+    {
+    	margin-bottom: 2em;
+    }
         
     
 
