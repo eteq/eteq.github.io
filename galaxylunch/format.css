@@ -1,0 +1,39 @@
+
+
+/*** allgemein: scroll-leiste, textformatierung ****/
+
+Body,table,tr,td {SCROLLBAR-ARROW-COLOR: #FFFFFF; SCROLLBAR-BASE-COLOR: black;
+scrollbar-highlight-color : silver; scrollbar-shadow-color : black;
+font-family: Verdana, Helvetica, Arial,sans-serif;
+font-size: 10pt;
+}
+
+/* ==================== */
+
+/* allgemeine links */
+
+A:link    {text-decoration: underline; color: #ffffff;
+ font-family: verdana; font-size: 10pt; }
+A:visited{text-decoration: underline; color: #ffffff;
+ font-family: Verdana; font-size: 10pt; }
+A:hover    {text-decoration: underline and overline; color: #cccccc;
+ font-family: Verdana; font-size: 10pt; }
+A:active {text-decoration: none; color: #ffffff;
+font-family: Verdana; font-size: 10pt; }
+
+/* ==================== */
+
+/*** Menü (linke Seite)- linkformatierung  ***/
+
+A:link.menli    {text-decoration: none; color: #ffffff;
+ font-family: verdana; font-size: 10pt; }
+A:visited.menli {text-decoration: none; color: #ffffff;
+ font-family: Verdana; font-size: 10pt; }
+A:hover.menli    {text-decoration: none; color: #ffffff;
+ font-family: Verdana; font-size: 10pt; }
+A:active.menli  {text-decoration: none; color: #cccccc;
+font-family: Verdana; font-size: 10pt; }
+
+
+
+/* ==================== */
