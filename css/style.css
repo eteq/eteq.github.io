@@ -955,15 +955,23 @@
 
     #cvcontent p
     {
-    	margin-bottom: 0.5em;
+    	margin-bottom: 0.25em;
     }
 
     #cvcontent li
     {
-    	margin-bottom: 2em;
+    	margin-bottom: 1em;
+    }
+
+    #observing li
+    {
+    	margin-bottom: 0.25em;
     }
         
-    
+    .italic
+    {
+	    font-style: italic;
+	}
 
 /*********************************************************************************/
 /* Copyright                                                                     */
