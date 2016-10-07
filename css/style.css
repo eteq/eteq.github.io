@@ -25,14 +25,6 @@
 }
 
 /*
-	Erik's tweaks
-*/
-
-#cvcontent ul.nomargin li{
-	margin: 0;
-}
-
-/*
 	Miniport 2.0 by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -69,7 +61,7 @@
 		-ms-transition: color .2s ease-in-out;
 		transition: color .2s ease-in-out;
 	}
-	
+
 		a:hover
 		{
 			color: #1B75A6 !important;
@@ -85,42 +77,42 @@
 		font-weight: 600;
 		color: #3e3e3e;
 	}
-	
+
 	h1, h2, h3, h4, h5, h6
 	{
 		color: #3e3e3e;
 	}
-	
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		{
 			text-decoration: none;
 			color: inherit;
 		}
-	
+
 	h2, h3, h4, h5, h6
 	{
 		font-weight: 700;
 	}
-	
+
 	h1
 	{
 		font-weight: 300;
 	}
-	
+
 		h1 strong
 		{
 			font-weight: 700;
 		}
-	
+
 	em, i
 	{
 		font-style: italic;
 	}
-	
+
 	form
 	{
 	}
-	
+
 		form input,
 		form select,
 		form textarea
@@ -150,12 +142,12 @@
 		{
 			box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.05), 0px 1px 0px 0px rgba(255,255,255,0.025), 0px 0px 2px 2px #74CAEE;
 		}
-		
+
 		form textarea
 		{
 			height: 15em;
 		}
-		
+
 		form .formerize-placeholder
 		{
 			color: #555 !important;
@@ -190,18 +182,18 @@
 	{
 		clear: both;
 	}
-	
+
 	p, ul, ol, dl, table
 	{
 		margin-bottom: 2em;
 	}
-	
+
 	section,
 	article
 	{
 		margin-bottom: 3em;
 	}
-	
+
 	section > :last-child,
 	article > :last-child
 	{
@@ -218,7 +210,7 @@
 	{
 		display: inline-block;
 	}
-	
+
 		.image img
 		{
 			display: block;
@@ -231,13 +223,13 @@
 		width: 100%;
 		margin: 0 0 2em 0;
 	}
-	
+
 	.image-left
 	{
 		float: left;
 		margin: 0 2em 2em 0;
 	}
-	
+
 	.image-centered
 	{
 		display: block;
@@ -249,7 +241,7 @@
 			margin: 0 auto;
 			width: auto;
 		}
-	
+
 	.button
 	{
 		position: relative;
@@ -294,7 +286,7 @@
 			background-color: #76cdf0;
 			color: #fff !important;
 		}
-		
+
 		.button:active
 		{
 			background-image: -moz-linear-gradient(top, rgba(48,141,196,1), rgba(77,164,199,0));
@@ -305,7 +297,7 @@
 			box-shadow: inset 0px 0px 0px 1px #135c86, inset 0px -2px 1px 0px rgba(255,255,255,0.75);
 			top: 1px;
 		}
-	
+
 		.button-alt
 		{
 			background-color: #393939;
@@ -321,7 +313,7 @@
 			{
 				background-color: #444;
 			}
-			
+
 			.button-alt:active
 			{
 				background-image: -moz-linear-gradient(top, rgba(45,45,45,1), rgba(50,50,50,0));
@@ -331,7 +323,7 @@
 				background-image: linear-gradient(top, rgba(45,45,45,1), rgba(50,50,50,0));
 				box-shadow: inset 0px 0px 0px 1px #242424, inset 0px -2px 1px 0px rgba(255,255,255,0.2);
 			}
-	
+
 		.button-big
 		{
 		}
@@ -341,7 +333,7 @@
 		cursor: default;
 		margin: 0;
 	}
-	
+
 		ul.social li
 		{
 			position: relative;
@@ -415,13 +407,13 @@
 				font-size: 24px;
 				text-shadow: 1px 1px 0px rgba(255,255,255,0.1);
 			}
-			
+
 			ul.social li a span
 			{
 				display: block;
 				text-indent: -9999em;
 			}
-			
+
 	.box
 	{
 		background: #fff;
@@ -440,7 +432,7 @@
 
 	/*
 		Powered by:
-		
+
 		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
 		Font Awesome More (http://gregoryloucas.github.com/Font-Awesome-More/)
 	*/
@@ -809,7 +801,7 @@
 		background-image: none;
 		background-color: #fff;
 	}
-	
+
 	.wrapper-style2
 	{
 		background-color: #DCDCDC;
@@ -821,7 +813,7 @@
 	{
 		margin-bottom: 0.5em;
 	}
-	
+
 	.wrapper-style3
 	{
 		background-color: #fafafa;
@@ -840,17 +832,17 @@
 		text-shadow: -1px -1px 0px #181818;
 	}
 
-		.wrapper-first h1, 
-		.wrapper-first h2, 
-		.wrapper-first h3, 
-		.wrapper-first h4, 
-		.wrapper-first h5, 
+		.wrapper-first h1,
+		.wrapper-first h2,
+		.wrapper-first h3,
+		.wrapper-first h4,
+		.wrapper-first h5,
 		.wrapper-first h6
 		{
 			color: #fff;
 		}
-		
-		.wrapper-first .row-special 
+
+		.wrapper-first .row-special
 		{
 			display: inline-block;
 			border-top: solid 1px rgba(0,0,0,0.5);
@@ -890,17 +882,17 @@
 		z-index: 10000;
 		cursor: default;
 	}
-	
+
 		#nav ul
 		{
 			margin: 0;
 		}
-	
+
 		#nav li
 		{
 			display: inline-block;
 		}
-		
+
 		#nav a
 		{
 			position: relative;
@@ -909,12 +901,12 @@
 			text-decoration: none;
 			outline: 0;
 		}
-		
+
 			#nav a:hover
 			{
 				color: #fff !important;
 			}
-			
+
 			#nav a.active:before
 			{
 				content: '';
@@ -927,7 +919,7 @@
 				border-right: solid 0.75em transparent;
 				border-top: solid 0.6em #282828;
 			}
-			
+
 /*********************************************************************************/
 /* Articles                                                                      */
 /*********************************************************************************/
@@ -956,7 +948,7 @@
         margin-left: auto;
         margin-right: auto;
     }
-    .docutils.footnote:last-child 
+    .docutils.footnote:last-child
     {
         margin-bottom: 2em;
     }
@@ -975,7 +967,7 @@
     {
     	margin-bottom: 0.25em;
     }
-        
+
     .italic
     {
 	    font-style: italic;
@@ -989,7 +981,7 @@
 	{
 		color: #666;
 	}
-	
+
 		#copyright a
 		{
 			color: inherit;
@@ -1000,8 +992,20 @@
 			-ms-transition: color .2s ease-in-out;
 			transition: color .2s ease-in-out;
 		}
-		
+
 		#copyright a:hover
 		{
 			color: #777;
 		}
+
+
+/*
+	Erik's tweaks
+*/
+
+#cvcontent ul.nomargin li{
+	margin: 0;
+}
+
+.icon-orcid:before              { content: "iD"; padding-left: 2px; font-family:"sans-serif"}
+.icon-orcid:hover				{ background-color: #505C31; }

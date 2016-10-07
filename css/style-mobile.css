@@ -26,7 +26,7 @@
 		font-size: 2.25em;
 		line-height: 1.25em;
 	}
-	
+
 	h2
 	{
 	}
@@ -35,7 +35,7 @@
 	{
 		margin: 0 0 2em 0;
 	}
-	
+
 		header > span
 		{
 			font-size: 1.25em;
@@ -45,7 +45,7 @@
 	{
 		margin: 2.5em 0 0 0;
 	}
-	
+
 		footer > p
 		{
 			font-size: 1.25em;
@@ -54,7 +54,7 @@
 	form
 	{
 	}
-	
+
 		form input[type=text],
 		form input[type=password],
 		form select,
@@ -73,7 +73,7 @@
 	{
 		text-align: center;
 		font-size: 1.2em;
-		width: 100%;
+		width: 90%;
 		padding: 1em 0 1em 0;
 		margin: 0.25em 0 0.25em 0;
 	}
@@ -105,6 +105,7 @@
 		ul.social li.blogger			{ background-color: #FF6501; }
 		ul.social li.flickr				{ background-color: #0062DB; }
 		ul.social li.vimeo				{ background-color: #4C8AB0; }
+		ul.social li.orcid				{ background-color: #505C31; }
 
 	.box
 	{
@@ -145,7 +146,7 @@
 		{
 			padding-top: 5em;
 		}
-	
+
 		.wrapper-style4 .row-special
 		{
 			margin: 2.5em 0 0 0;
@@ -159,12 +160,12 @@
 	#nav
 	{
 	}
-	
+
 		#nav a
 		{
 			padding: 0.5em;
 		}
-		
+
 /*********************************************************************************/
 /* Articles                                                                      */
 /*********************************************************************************/
